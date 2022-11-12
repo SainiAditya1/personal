@@ -2,7 +2,6 @@
 
 Contains code for ADITYA's personal webiste.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Pradumnasaraf/Pradumnasaraf.github.io)
 
 ### Tech Stacks
 - HTML
