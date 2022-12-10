@@ -1,5 +1,6 @@
 <h2 align="center"> aditya.github.io</h2>
-### aditya"s personal website
+### Aditya"s personal website
+
 
 ### Tech Stacks
 - HTML
