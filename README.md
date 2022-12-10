@@ -1,4 +1,4 @@
-<h2 align="center"> pradumnasaraf.github.io</h2>
+<h2 align="center"> aditya.github.io</h2>
 
 
 ### Tech Stacks
