@@ -1,8 +1,8 @@
 <h2 align="center"> pradumnasaraf.github.io</h2>
 
-Contains code for Pradumna's personal webiste.
+Contains code for Aditya's personal webiste.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Pradumnasaraf/Pradumnasaraf.github.io)
+
 
 ### Tech Stacks
 - HTML
